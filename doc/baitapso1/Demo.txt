@@ -1,0 +1,3 @@
+TortoiseSVN is free software for software developers (programmers). It helps programmers manage different versions of the source code for their programs.
+Tortoise SVN is a Subversion client, implemented as a Microsoft Windows shell extension. It is released under the GNU General Public License.
+In Windows Explorer, besides showing context menu items for Subversion commands, it also provides icon overlay that indicates the status of Subversion working copies.
