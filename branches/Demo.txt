@@ -11,3 +11,5 @@ Update to revision
 Right click on Openkore's folder and go to TortoiseSVN > Update to revision.
 An update windown will open, check the Revision circle and input the revision on the box beside. You can click on the Show log button to see the list of commits with its revisions.
 After setting up, click on Ok and wait until it finishes.
+
+Enter something here
