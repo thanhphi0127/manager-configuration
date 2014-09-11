@@ -11,3 +11,7 @@ Update to revision
 Right click on Openkore's folder and go to TortoiseSVN > Update to revision.
 An update windown will open, check the Revision circle and input the revision on the box beside. You can click on the Show log button to see the list of commits with its revisions.
 After setting up, click on Ok and wait until it finishes.
+
+Repository browser
+The repository browser shows folders that are included with the svn:externals property. It's also possible to browse to those folders, even if they are located in different repositories. 
+The external folders are marked with a red arrow to distinguish them from normal folders in the repository.
